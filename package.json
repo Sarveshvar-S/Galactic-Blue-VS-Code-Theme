@@ -1,0 +1,30 @@
+{
+    "name": "galactic-blue",
+    "displayName": "Galactic Blue",
+    "description": "This theme was created by Sarvesh. Download if you like it.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "publisher": "SarveshvarS",
+    "author": {
+        "name": "Sarveshvar S"
+    },
+    "license": "MIT",
+    "homepage": "",
+    "keywords": [
+        "VS Code Galactic Blue "
+    ],
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Galactic Blue - Sarvesh S ",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Galactic Blue - Sarvesh S -color-theme.json"
+            }
+        ]
+    }
+}
